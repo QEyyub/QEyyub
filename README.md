@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Eyyub, an Skilled Backend developer....
+Hi 👋 I'm Eyyub, an Skilled Backend developer...
 
 
 # 💻 Tech Stack:
