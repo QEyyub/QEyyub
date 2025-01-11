@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Eyyub, an Skilled Backend developer...</h2>
+<h2 align="left">Hi👋! I'm Eyyub, an Skilled Backend developer...</h2>
 
 <div align="center" style="background-color: black; padding: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QEyyub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
