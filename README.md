@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Eyyub and I'm a Full Stack Developer</h2>
 
-###
+![Snake animation](https://raw.githubusercontent.com/<KULLANICI_ADINIZ>/<BRANCH_ADI>/snake.svg)
+
 
 <div align="center" style="background-color: black; padding: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QEyyub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
