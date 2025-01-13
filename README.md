@@ -1,6 +1,8 @@
 <h2 align="left">Hi👋! I'm Eyyub, an Skilled Backend developer...</h2>
 
-<div align="center" style="background-color: black; padding: 20px;">
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QEyyub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=QEyyub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=QEyyub&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -12,7 +14,7 @@
 
 ###
 
-<div align="left" style="background-color: black; color: white; padding: 20px;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -71,4 +73,8 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/QEyyub/QEyyub/output/snake.svg" alt="Snake animation" />
+
+###
 
