@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! I'm Eyyub, an Skilled Backend developer...</h2>
+<h2 align="left">Hi 👋! My name is Eyyub and I'm a Full Stack Developer</h2>
 
 ###
 
@@ -77,4 +77,3 @@
 <img src="https://raw.githubusercontent.com/QEyyub/QEyyub/output/snake.svg" alt="Snake animation" />
 
 ###
-
