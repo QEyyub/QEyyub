@@ -72,10 +72,4 @@ Hi 👋 I'm Eyyub, an Skilled Backend developer...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/QEyyub/QEyyub/output/snake.svg" alt="Snake animation" />
-
-###
