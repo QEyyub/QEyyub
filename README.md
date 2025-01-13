@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Eyyub, a skilled backend developer passionate about creating efficient, scalable, and secure solutions. 🚀<br><br>🌟 **Skills**: Backend Development, APIs, Cloud Technologies.<br>🎯 **Goals**: Constantly learning and improving in new tech areas.<br>🌐 **Collaborate**: Always open to working on exciting projects.<br>
+Hi 👋 I'm Eyyub, a skilled backend developer passionate about creating efficient, scalable, and secure solutions. 🚀<br><br>🌟 **Skills**: Backend Development, Frontend Development APIs<br>🎯 **Goals**: Constantly learning and improving in new tech areas.<br>🌐 **Collaborate**: Always open to working on exciting projects.<br>
 
 ---
 
@@ -90,14 +90,6 @@ Hi 👋 I'm Eyyub, a skilled backend developer passionate about creating efficie
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QEyyub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%">
 </div>
 
-
----
-
-## ✨ Fun Fact:
-🎵 I code better with music.<br>
-📖 Always exploring the latest in tech!
-
----
 
 [![](https://visitcount.itsvg.in/api?id=QEyyub&icon=0&color=1)](https://visitcount.itsvg.in)
 
