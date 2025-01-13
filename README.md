@@ -37,15 +37,15 @@ Hi 👋 I'm Eyyub, a skilled backend developer passionate about creating efficie
 ## 📊 GitHub Stats:
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=QEyyub&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=QEyyub&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QEyyub&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QEyyub&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="50%">
 </div>
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QEyyub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QEyyub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%">
 </div>
 
 
