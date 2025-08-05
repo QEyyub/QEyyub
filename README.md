@@ -8,8 +8,8 @@
 
 <table>
   <tr>
-    <th style="padding-right: 40px;">🧠 Languages & Frameworks</th>
-    <th style="padding-right: 40px;">💾 Database & Tools</th>
+    <th style="padding-right: 100px;">🧠 Languages & Frameworks</th>
+    <th style="padding-right: 100px;">💾 Database & Tools</th>
     <th>🏢 Enterprise</th>
   </tr>
   <tr>
