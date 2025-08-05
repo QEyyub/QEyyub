@@ -36,7 +36,7 @@
     </td>
   </tr>
 </table>
----
+
 
 ## 🎯 Goals  
 📚 Always learning and evolving with the latest technologies<br>  
