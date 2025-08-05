@@ -1,21 +1,40 @@
-💫 About Me:
-Hi 👋 I'm Eyyub, a passionate and results-driven Backend Developer with hands-on experience in building robust, secure, and scalable applications. I specialize in developing modern C# APIs, working with Angular for dynamic user interfaces, and integrating with ERP systems to streamline business processes.
+## 💫 About Me  
+👋 Hi, I'm **Eyyub** – a passionate and detail-oriented **Backend Developer** with strong experience in building **scalable**, **secure**, and **high-performance** web applications.<br>  
+🚀 I specialize in developing enterprise-grade solutions using **.NET technologies**, modern **Angular** frontends, and **ERP system integrations** that improve business efficiency.
 
-<br>
-🌟 Skills:
-• C# (.NET / ASP.NET Core)
-• RESTful API Development
-• Angular (Frontend Development)
-• SQL Server, Entity Framework
-• ERP System Integrations
-• Git, GitHub, Postman, Swagger
-• Clean Code & SOLID Principles
+---
 
-🎯 Goals:
-Continuously improving my skills and keeping up with emerging technologies in software development.
+## 💻 Tech Stack & Skills  
 
-🌐 Collaborate:
-Open to contributing to innovative projects and solving real-world problems with scalable tech solutions.
+🧠 **Languages & Frameworks**  
+- ⚙️ C# / ASP.NET Core  
+- 🌐 Angular  
+- 🗃️ Entity Framework / LINQ  
+- 🧾 RESTful APIs / Web API  
+
+💾 **Database & Tools**  
+- 🛢️ MS SQL Server  
+- 🧪 Postman / Swagger  
+- 🔧 Git / GitHub  
+
+🏢 **Enterprise**  
+- 📦 ERP System Integration  
+- 📈 Scalable Backend Architectures  
+- 🛡️ Secure Code Practices  
+- 🧼 Clean Code / SOLID Principles  
+
+---
+
+## 🎯 Goals  
+📚 Always learning and evolving with the latest technologies<br>  
+🤝 Open to collaboration on innovative and impactful projects<br>  
+🌍 Building solutions that solve real-world problems
+
+---
+
+## 📫 Let’s Connect  
+Feel free to reach out if you'd like to collaborate or just have a tech talk!  
+
 
 ---
 
