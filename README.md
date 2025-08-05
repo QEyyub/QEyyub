@@ -8,31 +8,30 @@
 
 <table>
   <tr>
-    <th>🧠 Languages & Frameworks</th>
-    <th>💾 Database & Tools</th>
+    <th style="padding-right: 40px;">🧠 Languages & Frameworks</th>
+    <th style="padding-right: 40px;">💾 Database & Tools</th>
     <th>🏢 Enterprise</th>
   </tr>
   <tr>
-    <td>
-      ⚙️ C# / ASP.NET Core<br>
-      🌐 Angular<br>
-      🗃️ Entity Framework / LINQ<br>
+    <td style="padding-right: 40px; vertical-align: top;">
+      ⚙️ C# / ASP.NET Core<br><br>
+      🌐 Angular<br><br>
+      🗃️ Entity Framework / LINQ<br><br>
       🧾 RESTful APIs / Web API
     </td>
-    <td>
-      🛢️ MS SQL Server<br>
-      🧪 Postman / Swagger<br>
+    <td style="padding-right: 40px; vertical-align: top;">
+      🛢️ MS SQL Server<br><br>
+      🧪 Postman / Swagger<br><br>
       🔧 Git / GitHub
     </td>
-    <td>
-      📦 ERP System Integration<br>
-      📈 Scalable Backend Architectures<br>
-      🛡️ Secure Code Practices<br>
+    <td style="vertical-align: top;">
+      📦 ERP System Integration<br><br>
+      📈 Scalable Backend Architectures<br><br>
+      🛡️ Secure Code Practices<br><br>
       🧼 Clean Code / SOLID Principles
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🎯 Goals  
