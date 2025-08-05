@@ -4,24 +4,34 @@
 
 ---
 
-## 💻 Tech Stack & Skills  
+## 💻 Tech Stack & Skills
 
-🧠 **Languages & Frameworks**  
-- ⚙️ C# / ASP.NET Core  
-- 🌐 Angular  
-- 🗃️ Entity Framework / LINQ  
-- 🧾 RESTful APIs / Web API  
-
-💾 **Database & Tools**  
-- 🛢️ MS SQL Server  
-- 🧪 Postman / Swagger  
-- 🔧 Git / GitHub  
-
-🏢 **Enterprise**  
-- 📦 ERP System Integration  
-- 📈 Scalable Backend Architectures  
-- 🛡️ Secure Code Practices  
-- 🧼 Clean Code / SOLID Principles  
+<table>
+  <tr>
+    <th>🧠 Languages & Frameworks</th>
+    <th>💾 Database & Tools</th>
+    <th>🏢 Enterprise</th>
+  </tr>
+  <tr>
+    <td>
+      ⚙️ C# / ASP.NET Core<br>
+      🌐 Angular<br>
+      🗃️ Entity Framework / LINQ<br>
+      🧾 RESTful APIs / Web API
+    </td>
+    <td>
+      🛢️ MS SQL Server<br>
+      🧪 Postman / Swagger<br>
+      🔧 Git / GitHub
+    </td>
+    <td>
+      📦 ERP System Integration<br>
+      📈 Scalable Backend Architectures<br>
+      🛡️ Secure Code Practices<br>
+      🧼 Clean Code / SOLID Principles
+    </td>
+  </tr>
+</table>
 
 ---
 
