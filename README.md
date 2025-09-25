@@ -1,6 +1,6 @@
 ## 💫 About Me  
 👋 Hi, I'm **Eyyub** – a passionate and detail-oriented **Backend Developer** with strong experience in building **scalable**, **secure**, and **high-performance** web applications.<br>  
-🚀 I specialize in developing enterprise-grade solutions using **.NET technologies**, modern **Angular** frontends, and **ERP system integrations** that improve business efficiency.
+🚀 I specialize in developing enterprise-grade solutions using **.NET technologies**, modern **Angular** frontends, and **ERP system integrations** that improve business efficiency. 
 
 ---
 
