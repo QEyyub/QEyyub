@@ -56,12 +56,12 @@
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=eyyubgadirov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyyubgadirov&theme=tokyonight&hide_border=true" width="48%" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=eyyubgadirov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyyubgadirov&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyyubgadirov&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyyubgadirov&layout=compact&theme=tokyonight&hide_border=true" width="40%" /> -->
 
 </div>
 
