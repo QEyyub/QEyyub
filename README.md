@@ -55,15 +55,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=eyyubgadirov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyyubgadirov&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyyubgadirov&layout=compact&theme=tokyonight&hide_border=true" width="40%" /> -->
-
+<a href="https://github.com/eyyubgadirov">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyyubgadirov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=00C9FF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyyubgadirov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&text_color=c9d1d9"/>
+</a>
 </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyyubgadirov&theme=tokyonight&hide_border=true&background=0d1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eyyubgadirov&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C9FF&line=00C9FF&point=ffffff" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ---
 
