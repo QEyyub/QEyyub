@@ -1,101 +1,85 @@
 <div align="center">
 
-# Hi 👋 I'm Eyyub Gadirov
+# 👋 Hi, I'm Eyyub Gadirov
 
-### Backend Developer
+### 🚀 Backend Developer | .NET & SQL Specialist | ERP Integration Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyyub-gadirov)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qeyyub5@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QEyyub)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=.NET+Backend+Developer;MS+SQL+Performance+Optimization;ERP+System+Integration;Clean+Architecture+Advocate" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
 
-```typescript
-const eyyub = {
-    location: "Baku, Azerbaijan 🇦🇿",
-    role: "Software Engineer @ AzəriMed QSC",
-    education: "Master's in Software Engineering",
-    focus: ["Backend Development", "ERP Integration", "API Design"],
-    technologies: {
-        backend: ["C#", "ASP.NET Core", "Entity Framework"],
-        frontend: ["Angular", "TypeScript", "JavaScript"],
-        databases: ["MS SQL Server", "MySQL", "PostgreSQL"],
-        tools: ["Git", "Postman", "Swagger"]
-    },
-    currentlyLearning: "Microservices & Cloud Architecture",
-    nextGoal: "PhD in Business Administration (2025) 🎓"
-};
-```
+🔹 Backend Developer with enterprise-level experience  
+🔹 Specialized in ERP integrations and database optimization  
+🔹 Strong background in scalable .NET Web APIs  
+🔹 Passionate about clean, maintainable, and secure code  
+
+Currently working on enterprise ERP systems and high-volume SQL Server environments.
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-<div align="center">
+### 🚀 Backend
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🗄 Database
+![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-003B57?style=for-the-badge)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-1F425F?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🏢 Enterprise & Architecture
+![ERP Integration](https://img.shields.io/badge/ERP_Integration-0A66C2?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-222222?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-444444?style=for-the-badge)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+---
 
-</div>
+## 🏢 Enterprise Experience
+
+### AzəriMed QSC – Software Engineer
+
+✔ Developed .NET Core Web APIs for ERP integration  
+✔ Optimized complex SQL queries & stored procedures  
+✔ Improved database performance and indexing strategies  
+✔ Managed data consistency across multiple ERP modules  
+✔ Integrated Tiger Logo & Axata ERP systems  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=QEyyub&show_icons=true&theme=dark&hide_border=false&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=QEyyub&theme=dark&hide_border=false" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QEyyub&theme=dark&hide_border=false&layout=compact" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=QEyyub&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1)
+<img src="https://github-readme-stats.vercel.app/api?username=QEyyub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=QEyyub&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-## 💼 Current Work
+## 🌍 Connect With Me
 
-**Software Engineer @ AzəriMed QSC** *(Feb 2024 - Present)*
-- 🔧 Building ERP integrations (Tiger Logo, Axata)
-- ⚡ Developing RESTful APIs with .NET Core
-- 🎨 Creating responsive Angular frontends
-- 💾 Optimizing SQL Server databases
+<div align="center">
 
-**Freelance Full Stack Developer** *(Dec 2021 - Present)*
-- 🌐 Notable Projects: [hra.edu.az](https://hra.edu.az) • [universitylife.co.uk](https://universitylife.co.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyyub-gadirov)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QEyyub)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qeyyub5@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 *Building scalable solutions that solve real-world problems*
-
-![](https://komarev.com/ghpvc/?username=QEyyub&color=blue)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:512BD4&height=120&section=footer"/>
 
 </div>
