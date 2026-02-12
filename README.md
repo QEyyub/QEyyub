@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github.com/eyyubgadirov/eyyubgadirov/blob/master/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/eyyubgadirov/eyyubgadirov/blob/output/github-contribution-grid-snake.svg" />
 
 
 </div>
