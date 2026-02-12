@@ -104,6 +104,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 
 </div>
