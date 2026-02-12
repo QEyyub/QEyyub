@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/> -->
 
 ## 💫 About Me
 
@@ -26,7 +26,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/> -->
 
 ## 🛠 Tech Universe
 
@@ -50,7 +50,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/> -->
 
 ## 📊 GitHub Analytics
 
@@ -67,7 +67,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/> -->
 
 ## 🐍 Contribution Graph
 
@@ -80,7 +80,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/> -->
 
 ## 🌐 Connect With Me
 
