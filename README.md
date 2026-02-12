@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=650&lines=.NET+Backend+Developer;Enterprise+ERP+Integration;MS+SQL+Performance+Optimization;Clean+Architecture+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=400&lines=.NET+Backend+Developer;Enterprise+ERP+Integration;MS+SQL+Performance+Optimization;Clean+Architecture+Engineer" />
 
 <br/><br/>
 
